@@ -1,29 +1,9 @@
 {
-    "spider": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.jar;md5;ca2df82cc6006f2ecfa065159243d880",
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "live2",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "IPV6",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1
-        }
-    ],
+"spider":"https://raw.kkgithub.com/gaotianliuyun/gao/master/jar/pg.jar;md5;988ca838860b1f359a048e2b177cd8a0",
+"lives":[{"name":"初秋语","type":0,"url":"https://raw.kkgithub.com/gaotianliuyun/gao/master/list.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
+"wallpaper":"https://jianbian.chuqiuyu.workers.dev",
     "sites": [
         {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","indexs":1,"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
