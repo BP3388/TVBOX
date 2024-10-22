@@ -1,0 +1,383 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+#EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/fashiontv.png?raw=true" group-title="UHD",Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD",爱上4K V6
+
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="UHD",SITV欢笑剧场4K
+http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="UHD",SITV欢笑剧场4K
+http://php.jdshipin.com/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="UHD",SITV欢笑剧场4K
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="UHD",SITV欢笑剧场4K 上海电信
+http://124.79.25.97:4022/udp/239.45.1.4:5140
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="UHD",SITV欢笑剧场4K 甘肃电信
+http://118.183.212.36:6868/udp/239.255.29.7:8231
+
+
+
+#EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD",华数4K影视
+http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000014
+#EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD",华数4K影视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="UHD",苏州4K
+
+#EXTINF:-1 group-title="IPV6 短尾",🔥纯享超清4K
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/
+#EXTINF:-1 group-title="IPV6 短尾",🔥纯享超清4K
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV2
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV3
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010063/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010139/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010063/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010139/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010145/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5+
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010202/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV6
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010214/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010215/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010215/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV8
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010216/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV8
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010216/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010052/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010217/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010052/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010205/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010207/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010142/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010142/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010210/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010210/
+#EXTINF:-1 group-title="IPV6 短尾",东方卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010054/
+#EXTINF:-1 group-title="IPV6 短尾",东方卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010219/
+#EXTINF:-1 group-title="IPV6 短尾",辽宁卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010061/
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010062/
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010064/
+#EXTINF:-1 group-title="IPV6 短尾",超级电视剧
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
+#EXTINF:-1 group-title="IPV6 短尾",山东卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010066/
+#EXTINF:-1 group-title="IPV6 短尾",纪实人文
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010067/
+#EXTINF:-1 group-title="IPV6 短尾",健身运动
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010147/
+#EXTINF:-1 group-title="IPV6 短尾",重庆卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/
+#EXTINF:-1 group-title="IPV6 短尾",江苏卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010059/
+#EXTINF:-1 group-title="IPV6 短尾",辽宁卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010061/
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010062/
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010064/
+#EXTINF:-1 group-title="IPV6 短尾",超级电视剧
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010065/
+#EXTINF:-1 group-title="IPV6 短尾",SITV纪实人文
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010067/
+#EXTINF:-1 group-title="IPV6 短尾",天津卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010069/
+#EXTINF:-1 group-title="IPV6 短尾",健身运动
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010147/
+#EXTINF:-1 group-title="IPV6 短尾",湖南卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010224/
+#EXTINF:-1 group-title="IPV6 短尾",北京纪实科教
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV1
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000002226/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV2
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV3
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/
+
+EXTINF:-1 group-title="IPV6 短尾",CCTV5
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5+
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV6
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV6
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265007/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV7
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024341/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV5+
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV9
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV10
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023734/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV11
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010205/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV12
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032494/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV13
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV14
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006673/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV15
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV16
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
+#EXTINF:-1 group-title="IPV6 短尾",CCTV17
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/
+#EXTINF:-1 group-title="IPV6 短尾",北京卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/
+#EXTINF:-1 group-title="IPV6 短尾",超级体育
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/
+#EXTINF:-1 group-title="IPV6 短尾",广东卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/
+#EXTINF:-1 group-title="IPV6 短尾",SITV纪实人文
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016545/
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268002/
+#EXTINF:-1 group-title="IPV6 短尾",SITV纪实人文
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000010282/
+#EXTINF:-1 group-title="IPV6 短尾",SITV东方财经
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/
+#EXTINF:-1 group-title="IPV6 短尾",SITV金色学堂
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/
+#EXTINF:-1 group-title="IPV6 短尾",SITV都市剧场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/
+#EXTINF:-1 group-title="IPV6 短尾",SITV乐游
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/
+#EXTINF:-1 group-title="IPV6 短尾",SITV动漫秀场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/
+#EXTINF:-1 group-title="IPV6 短尾",SITV游戏风云
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/
+#EXTINF:-1 group-title="IPV6 短尾",云南卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/
+#EXTINF:-1 group-title="IPV6 短尾",SITV哈哈炫动
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/
+#EXTINF:-1 group-title="IPV6 短尾",北京纪实科教
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/
+#EXTINF:-1 group-title="IPV6 短尾",湖南快乐垂钓
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/
+#EXTINF:-1 group-title="IPV6 短尾",湖南茶频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/
+#EXTINF:-1 group-title="IPV6 短尾",东方卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/
+#EXTINF:-1 group-title="IPV6 短尾",广东卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/
+#EXTINF:-1 group-title="IPV6 短尾",黑龙江卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/
+#EXTINF:-1 group-title="IPV6 短尾",湖南卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/
+#EXTINF:-1 group-title="IPV6 短尾",超级综艺
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/
+#EXTINF:-1 group-title="IPV6 短尾",超级体育
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/
+#EXTINF:-1 group-title="IPV6 短尾",超级电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/
+#EXTINF:-1 group-title="IPV6 短尾",超级电视剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/
+#EXTINF:-1 group-title="IPV6 短尾",纪实人文
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/
+#EXTINF:-1 group-title="IPV6 短尾",深圳卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/
+#EXTINF:-1 group-title="IPV6 短尾",健身运动
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/
+#EXTINF:-1 group-title="IPV6 短尾",广东卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/
+#EXTINF:-1 group-title="IPV6 短尾",湖南卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0  group-title="Best TV",CCTV1
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV1
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV1
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+
+#EXTINF:0  group-title="Best TV",CCTV3
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV5 12M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000004794/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004794
+#EXTINF:0  group-title="Best TV",CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV5+
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV5+
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3&HlsProfileId=
+
+#EXTINF:0  group-title="Best TV",CCTV5+
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+#EXTINF:0  group-title="Best TV",CCTV6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001737/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001737
+
+#EXTINF:0  group-title="Best TV",CCTV6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+
+#EXTINF:0  group-title="Best TV",CCTV8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV9
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3&HlsProfileId=
+
+#EXTINF:0  group-title="Best TV",CCTV10
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3&HlsProfileId=
+
+#EXTINF:0  group-title="Best TV",CCTV11
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001640/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001640
+
+#EXTINF:0  group-title="Best TV",CCTV13
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
+
+#EXTINF:0  group-title="Best TV",东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",安徽卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",黑龙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3&HlsProfileId=
+
+#EXTINF:0  group-title="Best TV",吉林卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",广西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",河南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",云南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",甘肃卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",四川卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3&HlsProfileId=
+EXTINF:0  group-title="Best TV",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:0  group-title="Best TV",深圳卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3&HlsProfileId=
+
+#EXTINF:0  group-title="Best TV",天津卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000000831/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000000831
+#EXTINF:0  group-title="Best TV",重庆卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001096/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001096
+
+#EXTINF:0  group-title="Best TV",江苏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001828/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001828
+#EXTINF:0  group-title="Best TV",北京纪实科教
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001910/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001910
+#EXTINF:0  group-title="Best TV",黑龙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001925/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001925
+#EXTINF:0  group-title="Best TV",辽宁卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001945/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001945
+#EXTINF:0  group-title="Best TV",天津卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003475/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003475
+#EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字高清",求索纪录
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
+#EXTINF:-1 tvg-id="Qiusuo2" tvg-name="求索science" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="数字高清",求索science
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
+#EXTINF:-1 tvg-id="Qiusuo3" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png" group-title="数字高清",求索动物
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
+#EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="数字高清",求索生活
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000008
+#EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="数字高清",乐游
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
+
+
+
