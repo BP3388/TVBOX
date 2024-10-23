@@ -1,15 +1,5 @@
 { "urls": [
-{"url":"http://lin.ohphp.com/3/qg.json","name":"qg"},
-{"url":"https://notabug.org/dongchenys/pt/raw/json/jianjie.json","name":"dongchenys_4K"},
-{"url":"http://mdxgh.dynv6.net","name":"4K"},
-{"url":"https://gitee.com/wj0321/tvlive/raw/main/wj.json","name":"wj0321_wj"},
-{"url":"http://我不是.摸鱼儿.top","name":"摸鱼4k"},
-{"url":"http://lin.ohphp.com/1/my.json","name":"4K线路1"},
-{"url":"http://lin.ohphp.com/2/tvkj.json","name":"4K线路2"},
-{"url":"http://lin.ohphp.com/da/bao.json","name":"4K线路3"},
-{"url":"http://lin.ohphp.com/yinliu/xc.json","name":"4K线路7"},
-{"url":"http://lin.aosoubao.com/1/sanbao.json","name":"4K线路4"},
-{"url":"http://lin.aosoubao.com/2/ymjr.json","name":"4K线路5"},
+
 {"url":"http://lin.aosoubao.com/da/wa.json","name":"4K线路6"},
 {"name":"🚖影探4k","url":"https://raw.githubusercontent.com/gggwang/tvbox/master/🚖影探4k.txt"},
 {"name":"🌈最新4k","url":"https://raw.githubusercontent.com/gggwang/tvbox/master/🌈最新4k.txt"},	
