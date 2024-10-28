@@ -65,6 +65,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 ,4K超高清电影.1080P
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
+#EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png",爱自然A
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD",爱自然
