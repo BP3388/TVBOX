@@ -19,8 +19,7 @@ http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000014
 
 #EXTINF:-1,tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="4K",欢笑剧场4K
 http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
-#EXTINF:-1,tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="4K",欢笑剧场4K
-http://php.jdshipin.com/bestv.php?id=hxjc4k/15000000
+
 #EXTINF:-1,tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="4K",欢笑剧场4K
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 
