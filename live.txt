@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="IPV6 4K",4K节目
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/index.m3u8
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 ,纯享 4K
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010006/
 #EXTINF:-1 ,4KUHD
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010006/1.m3u8
@@ -11,9 +11,9 @@ http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010006/1.m3u8
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010202/1.m3u8
 #EXTINF:-1 ,CCTV-5+ 体育赛事
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010202/main.m3u8
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 ,纯享 4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 ,纯享 4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 #EXTINF:-1 ,求索生活
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008
@@ -44,7 +44,19 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://stream1.freetv.fun/bbc-new-1.ctv
 #EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title="🌐｜国际频道",今日俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://mirror.ghproxy.com/https://github.com/4yt1k/TVBox/blob/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="🚩｜港•澳",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBSNews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png" group-title="🚩｜港•澳•台",TVBSNews
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="🚩｜港•澳",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 
