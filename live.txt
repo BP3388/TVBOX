@@ -26,12 +26,19 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
+#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico" group-title="🌐｜国际频道",美国Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.cookielaw.org/logos/9651e1f6-c35b-4377-be7f-5a0c93f0ecb8/340b7de8-e27e-4a18-a654-e023d134ac8c/1a4ea38d-576d-408b-ac1c-1c125ebd6277/CNN_logo.png" group-title="🌐｜国际频道",美国CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.cookielaw.org/logos/9651e1f6-c35b-4377-be7f-5a0c93f0ecb8/340b7de8-e27e-4a18-a654-e023d134ac8c/1a4ea38d-576d-408b-ac1c-1c125ebd6277/CNN_logo.png" group-title="🌐｜国际频道",美国CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.cookielaw.org/logos/9651e1f6-c35b-4377-be7f-5a0c93f0ecb8/340b7de8-e27e-4a18-a654-e023d134ac8c/1a4ea38d-576d-408b-ac1c-1c125ebd6277/CNN_logo.png" group-title="🌐｜国际频道",美国CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://www.nbc.com/generetic/generated/images/4fac8d8aaa7d8798a512dac0322d8d14.png" group-title="🌐｜国际频道",美国NBC
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="🌐｜国际频道",美国ABC
