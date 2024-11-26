@@ -6,8 +6,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
 #EXTINF:-1 group-title="IPV6 4K",浙江卫视 8M
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 group-title="IPV6 4K",4K频道
+http://60.7.56.33:4000/rtp/239.253.92.114:6187$河北联通组播
+
+#EXTINF:-1 group-title="IPV6 4K",欢笑剧场4K
+http://ha.xushining.com:50000/udp/225.1.1.139:5002$天津联通组播
 
 
+#EXTINF:-1 group-title="IPV6 4K",4K私享家
+http://ha.xushining.com:50000/udp/225.1.1.156:5002$天津联通组播
+#EXTINF:-1 group-title="IPV6 4K",4K影视
+http://ha.xushining.com:50000/udp/225.1.2.190:5002$天津联通组播
 
 #EXTINF:-1 group-title="IPV6 4K",4K节目
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/index.m3u8
