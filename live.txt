@@ -12,13 +12,13 @@ http://coolcat.synology.me:4022/rtp/239.3.1.129:8008$北京联通组播
 #EXTINF:-1 group-title="IPV6 4K",Celestial 2
 https://stream1.freetv.fun/celestial-movies-2.ctv
 #EXTINF:-1 group-title="IPV6 4K",广东4K超
-http://113.89.247.211:4200/udp/239.77.1.237:5146
+http://113.89.247.211:4200/rtp/239.77.1.237:5146
 #EXTINF:-1 group-title="IPV6 4K",广东4K超高清(4K)
-http://113.89.247.211:4200/udp/239.77.0.244:5146
+http://113.89.247.211:4200/rtp/239.77.0.244:5146
 #EXTINF:-1 group-title="IPV6 4K",广东4K超高清窄色域25
-http://113.89.247.211:4200/udp/239.77.0.245:5146
+http://113.89.247.211:4200/rtp/239.77.0.245:5146
 #EXTINF:-1 group-title="IPV6 4K",广东4K超高清宽色域AVS2
-http://113.89.247.211:4200/udp/239.77.0.252:5146
+http://113.89.247.211:4200/rtp/239.77.0.252:5146
 
 
 #EXTINF:-1 group-title="IPV6 4K",纯享 4K
