@@ -1,13 +1,30 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
+#EXTINF:-1 group-title="SIN/MAL",Channel 5
+http://aktv.top:80/AKTV/live/aktv/channel5hd/AKTV.m3u8$订阅源
+#EXTINF:-1 group-title="SIN/MAL",Channel 5
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8$订阅源
+
+#EXTINF:-1 group-title="SIN/MAL",Channel 8
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$订阅源
+#EXTINF:-1 group-title="SIN/MAL",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$订阅源
+
+#EXTINF:-1 group-title="SIN/MAL",
+
+#EXTINF:-1 group-title="SIN/MAL",
+
 #EXTINF:-1 group-title="IPV6 4K",浙江卫视 4M
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
 #EXTINF:-1 group-title="IPV6 4K",浙江卫视 8M
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 group-title="IPV6 4K",CCTV-1 综合
-http://coolcat.synology.me:4022/rtp/239.3.1.129:8008$北京联通组播
+#EXTINF:-1 group-title="IPV6 4K",爱上4K[超清]
+http://221.221.162.225:8888/rtp/239.3.1.236:2000
+
+#EXTINF:-1 group-title="IPV6 4K",4K超清[超清]
+http://221.221.162.225:8888/rtp/239.3.1.249:8001
 
 #EXTINF:-1 group-title="IPV6 4K",Celestial 2
 https://stream1.freetv.fun/celestial-movies-2.ctv
