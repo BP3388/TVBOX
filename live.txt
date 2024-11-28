@@ -1,19 +1,18 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="TEST",CCTV-1综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="TEST",CCTV-2财经
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="TEST",CCTV-3综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="TEST",CCTV-4中文国际
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="TEST",CCTV-5体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="TEST",CCTV-5+体育赛事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 
-#EXTINF:-1 group-title="SIN/MAL",Channel 5
-http://aktv.top:80/AKTV/live/aktv/channel5hd/AKTV.m3u8$订阅源
-#EXTINF:-1 group-title="SIN/MAL",Channel 5
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8$订阅源
-
-#EXTINF:-1 group-title="SIN/MAL",Channel 8
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$订阅源
-#EXTINF:-1 group-title="SIN/MAL",Channel U
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$订阅源
-
-#EXTINF:-1 group-title="SIN/MAL",
-
-#EXTINF:-1 group-title="SIN/MAL",
 
 #EXTINF:-1 group-title="IPV6 4K",浙江卫视 4M
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
