@@ -10,14 +10,14 @@
 
 
 
-#EXTINF:-1 group-title="IPV6 4K",浙江卫视 4M
+#EXTINF:-1 group-title="🇨🇳IPV6 4K",浙江卫视 4M
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
-#EXTINF:-1 group-title="IPV6 4K",浙江卫视 8M
+#EXTINF:-1 group-title="🇨🇳IPV6 4K",浙江卫视 8M
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 
 
-#EXTINF:-1 group-title="IPV6 4K",Celestial 2
+#EXTINF:-1 group-title="🇨🇳IPV6 4K",Celestial 2
 https://stream1.freetv.fun/celestial-movies-2.ctv
 
 
