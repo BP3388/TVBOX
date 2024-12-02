@@ -2,11 +2,30 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 
+#EXTINF:-1 group-title="TEST 2024",💋💋CCTV4K 35M2160
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
+#EXTINF:0,欢笑剧场4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
+#EXTINF:0,💋💋求索纪录4K[3840*2160]
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/index.m3u8?fmt=ts2hls
 
 
-
-
-
+#EXTINF:0,💋北京超清4K
+http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
+#EXTINF:0,💋CCTV4K超高清[3840*2160]
+http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+#EXTINF:0,💋CCTV4K超高清50帧
+http://[2409:8087:2801:22:100::48]/wh7f454c46tw3853113344_884900799/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+#EXTINF:0,💋求索记录4k
+http://[2409:8087:2801:22:100::6f]/wh7f454c46tw310829647_836254127/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
+#EXTINF:0,💋4KUHD
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:0,💋4KUHD
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:0,💋纯享4K
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
+#EXTINF:0,💋纯享4k
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 
 
 
