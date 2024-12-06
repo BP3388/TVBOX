@@ -303,7 +303,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 
 #EXTINF:-1 group-title="🎱｜4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png",爱上 4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="🎱｜4K" tvg-name="华数4K" tvg-logo="https://epg.pw/media/" group-title="4K",华数4K·测试
+#EXTINF:-1 group-title="🎱｜4K" tvg-name="华数4K" tvg-logo="https://epg.pw/media/" 华数4K·测试
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 
 #EXTINF:-1 group-title="🎱｜4K",CCTV16 4K
@@ -339,7 +339,7 @@ http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 group-title="🎱｜4K",tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true", 欢笑剧场 4K
 http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
 
-#EXTINF:-1 group-title="🎱｜4K" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" ,欢笑剧场
+#EXTINF:-1 group-title="🎱｜4K" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" ,欢笑剧场 FHD
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 
 
