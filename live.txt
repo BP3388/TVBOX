@@ -1,7 +1,7 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/纯享.png" group-title="4K-8K",纯享
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/纯享.png" group-title="4K-8K",4K UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/华数.png" group-title="4K-8K",华数
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -12,15 +12,15 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/百事通4K电影.png" group-title="4K-8K",百事通4K电影
 http://www.17888.fun:10000/udp/239.45.3.107:5140$上海电信组播
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/百事通4K纪实.png" group-title="4K-8K",百事通4K纪实
-http://www.17888.fun:10000/rtp/239.45.1.10:5140$上海电信组播
+http://www.17888.fun:10000/udp/239.45.1.10:5140$上海电信组播
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/百事通4K儿童.png" group-title="4K-8K",百事通4K儿童
-http://www.17888.fun:10000/rtp/239.45.1.1:5140$上海电信组播
+http://www.17888.fun:10000/udp/239.45.1.1:5140$上海电信组播
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/苏州4K.png" group-title="4K-8K",苏州4K
 http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/北京4K超清.png" group-title="4K-8K",北京4K超清
-http://cn.zzmd.fun:8888/rtp/239.3.1.249:8001$北京联通组播
+http://cn.zzmd.fun:8888/udp/239.3.1.249:8001$北京联通组播
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/南国都市4K.png" group-title="4K-8K",南国都市4K
-http://alvin.ergotron.net:8000/rtp/239.253.43.99:5146$广东电信组播
+http://alvin.ergotron.net:8000/udp/239.253.43.99:5146$广东电信组播
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/广东综艺4K.png" group-title="4K-8K",广东综艺4K
 http://alvin.ergotron.net:8000/rtp/239.77.1.237:5146$广东电信组播
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南卫视4K.png" group-title="4K-8K",河南卫视4K
