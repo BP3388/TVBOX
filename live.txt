@@ -5,6 +5,8 @@
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 #EXTINF:-1 tvg-name="4K南国都市频道" tvg-logo="https://live.fanmingming.com/tv/4K南国都市频道.png" group-title="地方频道",4K南国都市频道
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV16.png" group-title="地方频道",CCTV-16 奥林匹克 4K
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 
 
 
