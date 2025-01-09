@@ -57,8 +57,8 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.
 #EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV-16奥林匹克4K
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
  
-#EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV-16 4K
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV-16 4K fy
+http://tvcdn.kkmz.top/itv/5000000008000023254.m3u8?cdn=bestzb
 
 #EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV16-4K(V4)
 http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
@@ -82,6 +82,9 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 
 #EXTINF:-1 group-title="4K 2025", tvg-name="淘4K" tvg-logo="https://live.fanmingming.com/tv/淘4K.png" ,淘4K
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K 2025",,华数4K fy
+http://tvcdn.kkmz.top/itv/6000000003000004748.m3u8?cdn=wasusyt
 
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K 2025",,华数4K影视2
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000003000004748
