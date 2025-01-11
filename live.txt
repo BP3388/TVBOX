@@ -1,6 +1,38 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
+#EXTINF:-1 group-title="4K AAA" tvg-logo="https://epg.iill.top/logo/纯享4K.png",纯享·4K
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=0
+#EXTINF:-1 group-title="4K AAA" tvg-logo="https://epg.iill.top/logo/华数4K.png",华数·4K
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=0
+#EXTINF:-1 group-title="4K AAA" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png",欢笑剧场·4K
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=0
+
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV热门剧场
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288004/index.m3u8?channel-id=bestzb&Contentid=5000000011000288004&livemode=1&stbId=0
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV华语影院
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=0
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV健康养生
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288006/index.m3u8?channel-id=bestzb&Contentid=5000000011000288006&livemode=1&stbId=0
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV热门综艺
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288007/index.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=0
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/纪实科教.png",纪实科教
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=0
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/精彩影视.png",精彩影视
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&0
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/五星体育.png",SiTV 五星体育
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&0
+#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/劲爆体育.png",SiTV 劲爆体育
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&0
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="华数-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",华数-4K
 http://tvcdn.kkmz.top/itv/6000000003000004748.m3u8?cdn=wasusyt
 
