@@ -136,7 +136,7 @@ http://tvcdn.kkmz.top/itv/1000000005000265014.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="feiyang",CCTV-16 奥林匹克
 http://tvcdn.kkmz.top/itv/1000000006000233002.m3u8?cdn=ystenlive
-EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="feiyang",CCTV16-4K-HEVC-HEVC
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="feiyang",CCTV16-4K-HEVC-HEVC
 http://tvcdn.kkmz.top/itv/5000000008000023254.m3u8?cdn=bestzb
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="feiyang",CCTV-17 农业农村
