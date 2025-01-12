@@ -8,22 +8,6 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000003000004748/index.m3u8
 #EXTINF:-1 group-title="4K AAA" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png",欢笑剧场·4K
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=0
 
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV热门剧场
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288004/index.m3u8?channel-id=bestzb&Contentid=5000000011000288004&livemode=1&stbId=0
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV华语影院
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=0
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV健康养生
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288006/index.m3u8?channel-id=bestzb&Contentid=5000000011000288006&livemode=1&stbId=0
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/百事通.png",BesTV热门综艺
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000288007/index.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=0
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/纪实科教.png",纪实科教
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=0
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/精彩影视.png",精彩影视
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&0
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/五星体育.png",SiTV 五星体育
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&0
-#EXTINF:-1 group-title="数字AAA" tvg-logo="https://epg.iill.top/logo/劲爆体育.png",SiTV 劲爆体育
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&0
 
 
 
@@ -33,14 +17,7 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000008/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="华数-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",华数-4K
-http://tvcdn.kkmz.top/itv/6000000003000004748.m3u8?cdn=wasusyt
 
-#EXTINF:-1 tvg-name="纯享-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",纯享-4K
-http://tvcdn.kkmz.top/itv/1000000004000011651.m3u8?cdn=ystenlive
-
-#EXTINF:-1 tvg-name="欢笑剧场-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",欢笑剧场-4K
-http://tvcdn.kkmz.top/itv/5000000007000010001.m3u8?cdn=bestzb
 
 
 
@@ -739,30 +716,15 @@ https://live.hkdvb.com/hls/live/84.m3u8?token=275839252947068
 https://live.hkdvb.com/hls/live/82.m3u8?token=275839252947068
 
 
-
-
-
-
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="CHC",CHC影迷电影
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="CHC",CHC动作电影
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="CHC",CHC家庭影院
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC",CHC家庭影院
-http://[2409:8087:4c0d:22:2::157]:6610/170000001115/UmaiCHAN63807601b19dd/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC",CHC高清电影
-http://[2409:8087:4c0d:22:2::157]:6610/170000001115/UmaiCHAN6380764b172c9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC",CHC动作电影
-http://[2409:8087:4c0d:22:2::157]:6610/170000001115/UmaiCHAN6380763222d00/1.m3u8?m3u8_level=2
-
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IAS
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
-http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IAS
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
-http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IAS
+https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
 
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
+http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
+http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
+http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影php
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
