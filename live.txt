@@ -1,6 +1,10 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",CCTV4K
+https://stream1.freetv.fun/0770bb3bc84ed4e330f1583e33152a2e4760aa48a1bf8cb1589c76bd0bd400f9.m3u8$LR•17•IPV4『线路5』
+
+
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",CCTV-1 综合
 http://tvcdn.kkmz.top/itv/6000000001000029752.m3u8?cdn=wasusyt
