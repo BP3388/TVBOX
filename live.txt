@@ -2,69 +2,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="黑龙江V6.央视",CCTV1
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="黑龙江V6.央视",CCTV2
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="黑龙江V6.央视",CCTV3
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="黑龙江V6.央视",CCTV4
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="黑龙江V6.央视",CCTV5
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="黑龙江V6.央视",CCTV5+
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="黑龙江V6.央视",CCTV6
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="黑龙江V6.央视",CCTV7
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="黑龙江V6.央视",CCTV8
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="黑龙江V6.央视",CCTV9
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="黑龙江V6.央视",CCTV10
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="黑龙江V6.央视",CCTV11
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="黑龙江V6.央视",CCTV12
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="黑龙江V6.央视",CCTV13
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="黑龙江V6.央视",CCTV14
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="黑龙江V6.央视",CCTV15
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="黑龙江V6.央视",CCTV16
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="黑龙江V6.央视",CCTV17
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="黑龙江V6.其他",CETV1
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="黑龙江V6.其他",CETV2
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="黑龙江V6.其他",CETV4
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="黑龙江V6.央视",CGTN
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="黑龙江V6.央视",CGTN纪录
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",CCTV-1 综合
 http://tvcdn.kkmz.top/itv/6000000001000029752.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="feiyang",CCTV1-50-FPS
@@ -251,7 +188,7 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.
 
 
 #EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV-16奥林匹克4K
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+http://[2409:8087:5e08:24::1d]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
  
 #EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV-16 4K fy
 http://tvcdn.kkmz.top/itv/5000000008000023254.m3u8?cdn=bestzb
@@ -259,16 +196,16 @@ http://tvcdn.kkmz.top/itv/5000000008000023254.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV16-4K(V4)
 http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 
-#EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV16-4K(V4)
+#EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV16
 http://39.134.136.161:6610/000000001000/1000000006000233002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233002
 
-#EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV16-4K(V4)
+#EXTINF:-1 group-title="4K 2025" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" ,CCTV16
 http://39.134.136.161:6610/000000001000/1000000006000233001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233001
 
 
 
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K 2025",,纯享4K
-http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+http://[2409:8087:5e08:24::1d]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K 2025",,纯享4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/
@@ -304,8 +241,8 @@ http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000007000010001
 #EXTINF:-1 group-title="4K 2025", tvg-name="SITV欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" ,欢笑剧场1080
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K 2025",,CCTV4K
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IAS
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K 2025",CCTV4K超高清
+https://stream1.freetv.fun/0770bb3bc84ed4e330f1583e33152a2e4760aa48a1bf8cb1589c76bd0bd400f9.m3u8$LR•17•IPV4『线路5』
 
 #EXTINF:-1 group-title="4K 2025", tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
