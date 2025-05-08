@@ -71,17 +71,7 @@
   
   
    
-    {
-      "key": "sbys",
-      "name": "素白丨影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
-    },
+   
     {
       "key": "ygcl",
       "name": "影港┃磁力",
@@ -105,31 +95,7 @@
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/美.js"
     },
    
-    },
-    {
-      "key": "猫咪",
-      "name": "猫咪丨弹幕",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/熊密.js"
-    },
-   
-  
-    {
-      "key": "荐片弹幕",
-      "name": "荐片丨弹幕",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-   
+       
     {
       "key": "机器人",
       "name": "机器丨影视",
@@ -141,19 +107,7 @@
       "filterable": 1
     },
     
-    
- 
-  {
-      "key": "贱贱",
-      "name": "贱贱丨P2P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/jp.js"
-   },
+
     {
       "key": "🌞腾腾4K解析_js",
       "name": "免扫丨腾4K",
@@ -209,7 +163,6 @@
             "ext": {
                 "danmu": true
             }
-     },
  
     {
       "key": "爱奇艺",
@@ -236,27 +189,7 @@
       "order_num": 0,
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/布蕾4K.js"
     },
-    {
-      "key": "hipy_js_CNHD",
-      "name": "金牌丨HD",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/CNHD.js"
-    },
-    {
-      "key": "Kuaikan",
-      "name": "万能 | 快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/wanneng.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
   {
       "key": "阿里影视",
       "name": "万能 | 阿里",
@@ -274,79 +207,7 @@
 {"key":"苹果","name":"苹果丨不卡","type":3,"api":"csp_LiteApple","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/kx2024","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "hipy_js_采集之王[合]","name": "采集丨之王","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/采集之王.js?type=url&params=https://framagit.org/168/myys/-/raw/main/bb/lib/采集静态.json"},
   
-    {
-      "key": "试看|AI2",
-      "name": "AI｜恋影",
-      "type": 3,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/q0524qt.jar;md5;62727c90370bc6b3f97a21efcc8d30eb",
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji"
-    },
-    {
-      "key": "csp_XYQHiker_‍dyx",
-      "name": "恋影 | 蓝光",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/tg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/dyg.json"
-    },
-    {
-      "key": "会员专享18",
-      "name": "恋影 | 专享",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/tg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "会员专享25",
-      "name": "五五 | 影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/tg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/五五影视.json"
-    },
-    {
-      "key": "会员专享16",
-      "name": "看了 | 影视",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/lib/drpy.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/看了么.js"
-    },
-    {
-      "key": "賤賤",
-      "name": "荐片 | 影视",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "https://gitee.com/wxbtt/box/raw/master/pg.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/wxbtt/box/raw/master/lib/jianpian.json$$$1",
-      "timeout":60
-   }, 
-  {
-      "key": "爱看直连",
-      "name": "爱看丨直连",
-      "type": 3,
-      "api": "csp_Ikanbot",
-       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/okjpg1.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
+  
     {
       "key": "hipy_js_影探4K",
       "name": "影探｜4K①",
@@ -421,7 +282,7 @@
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/木耳.json"
     },
      {
-      "key": "厂1长",
+      "key": "厂长",
       "name": "厂长丨超清",
       "type": 3,
        "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
@@ -443,28 +304,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "北川",
-      "name": "银河丨北川",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/yinhe.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/北川影视.json"
-    },
-    {
-			"key": "csp_xBPQ_秒1",
-			"name": "文才｜影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/文才.json",
-			"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/hx.jar"
-    },
+    
     {
       "key": "zztong",
       "name": "涛涛 | 影视",
@@ -495,17 +335,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
       }
     },
-    {
-      "key": "光棍影视",
-      "name": "影视 | 光棍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
-      "ext": "分类url:https://www.ggdy.net/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
-    },
+   
     {
       "key": "jingluo",
       "name": "影视 | TVB",
