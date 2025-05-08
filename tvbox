@@ -53,17 +53,7 @@
       "filterable": 1,
       "ext": ""
     },
-    {
-      "key": "文采",
-      "name": "涛哥丨秒播⒉",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "小苹果弹幕版",
       "name": "涛哥丨秒播⒊",
@@ -78,52 +68,9 @@
       },
       "timeout": 10
     },
-    {
-      "key": "厂长弹幕版",
-      "name": "涛哥丨秒播⒋",
-      "type": 3,
-      "api": "csp_Czzy",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "红狐狸影院",
-      "name": "七星丨秒播⒌",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
-      "ext": {
-        "简介": "+line-height: 20px;\">&&</div>",
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "Kkys",
-      "name": "快看丨影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
-    },
-    {
-      "key": "nmys",
-      "name": "农民丨影视",
-      "type": 3,
-      "api": "csp_Nongm",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/5.jar;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
+  
+  
+   
     {
       "key": "sbys",
       "name": "素白丨影视",
@@ -157,26 +104,7 @@
       "filterable": 1,
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/美.js"
     },
-    {
-      "key": "淘影",
-      "name": "淘影丨狐狸",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xyqxbpq.jar",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/淘影.json"
-    },
-    {
-      "key": "糯米弹幕",
-      "name": "糯米丨弹幕",
-      "type": 3,
-      "api": "csp_Nmys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/nuomi.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+   
     },
     {
       "key": "猫咪",
@@ -185,62 +113,8 @@
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/熊密.js"
     },
-    {
-      "key": "农民影视",
-      "name": "农民｜影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PGspider1225.txt;md5;a017cafdb3877083267886d97c5e24f2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "看客影视",
-      "name": "看客｜影视",
-      "type": 3,
-      "api": "csp_Kanke",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PGspider1225.txt;md5;a017cafdb3877083267886d97c5e24f2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-            "key": "热播弹幕",
-            "name": "热播丨影视",
-            "type": 3,
-            "api": "csp_ReBo",
-            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-     },
-     {
-            "key": "南瓜弹幕",
-            "name": "南瓜丨弹幕",
-            "type": 3,
-            "api": "csp_Nangua",
-            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-     },	      
-     {
-		"key": "zj",
-		"name": "8K丨影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": {
-		  "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-		  "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
-		}
-    },
+   
+  
     {
       "key": "荐片弹幕",
       "name": "荐片丨弹幕",
@@ -255,19 +129,7 @@
         "danmu": true
       }
     },
-    {
-      "key": "文才弹幕",
-      "name": "文才丨弹幕",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
+   
     {
       "key": "机器人",
       "name": "机器丨影视",
@@ -278,65 +140,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "快看影视",
-      "name": "快看丨影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "雨见视频",
-      "name": "雨见┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "影片类型": "类型：&&</li>",
-        "简介": "🌈盒锦公众号提醒您:请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
-      }
-    },
-    {
-      "key": "南瓜",
-      "name": "南瓜丨秒播",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
-            "key": "小苹果弹幕",
-            "name": "苹果丨影视",
-            "type": 3,
-            "api": "csp_Xpg",
-            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-     },
-    {
-      "key": "csp_lwdy",
-      "name": "秒王丨线路",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"
-      }
-    },
+    
+    
+ 
   {
       "key": "贱贱",
       "name": "贱贱丨P2P",
@@ -404,34 +210,7 @@
                 "danmu": true
             }
      },
- {
-      "key": "兔子",
-      "name": "弹幕丨兔子",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/米兔.js"
-    },
-    {
-      "key": "金色",
-      "name": "弹幕丨金色",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/金牌.js"
-    },
-    {
-      "key": "雨滴",
-      "name": "弹幕丨雨滴",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/雨滴.js"
-    },
-    {
-      "key": "纸质",
-      "name": "弹幕┃纸质",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/纸质.js"
-    },
+ 
     {
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
@@ -494,22 +273,7 @@
 {"key":"csp_Bdys","name":"哔嘀丨影视","type":3,"api":"csp_Bdys","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/kx2024","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com"},
 {"key":"苹果","name":"苹果丨不卡","type":3,"api":"csp_LiteApple","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/kx2024","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "hipy_js_采集之王[合]","name": "采集丨之王","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/采集之王.js?type=url&params=https://framagit.org/168/myys/-/raw/main/bb/lib/采集静态.json"},
-    {
-      "key": "轩蓓｜专线①🏅",
-      "name": "星辰｜黄金",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "影片类型": "黄金云",
-        "播放标题": ">&&<[不包含:1080P]",
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-      }
-    },
+  
     {
       "key": "试看|AI2",
       "name": "AI｜恋影",
