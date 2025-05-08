@@ -53,25 +53,7 @@
       "filterable": 1,
       "ext": ""
     },
-   
-    {
-      "key": "小苹果弹幕版",
-      "name": "涛哥丨秒播⒊",
-      "type": 3,
-      "api": "csp_Xpg",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-  
-  
-   
-   
+     
     {
       "key": "ygcl",
       "name": "影港┃磁力",
@@ -137,13 +119,7 @@
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/腾讯VIP.js"
     },
-    {
-      "key": "金牌影视",
-      "name": "天微丨影院",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/金牌影视.js"
-    },
+ 
     {
       "key": "优酷",
       "name": "流光丨酷影",
@@ -151,18 +127,7 @@
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/优酷.js"
     },
-   {
-            "key": "小米弹幕",
-            "name": "小米｜弹幕",
-            "type": 3,
-            "api": "csp_Nmys",
-            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qqwxx.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
+   
  
     {
       "key": "爱奇艺",
@@ -252,13 +217,7 @@
       "filterable": 1,
       "ext": "http://wmmys.wmmys.cn/api.php/app/"
     },
-    {
-      "key": "小马",
-      "name": "小马丨纯净",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://mas.szyyds.cn/api.php/app/"
-    },
+   
     {
       "key": "新6V",
       "name": "六维丨磁力",
@@ -269,18 +228,7 @@
       "changeable": 0,
       "timeout": 20
     },
-     {
-      "key": "木耳",
-      "name": "木耳丨秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/木耳.json"
-    },
+     
      {
       "key": "厂长",
       "name": "厂长丨超清",
@@ -305,23 +253,7 @@
       "changeable": 1
     },
     
-    {
-      "key": "zztong",
-      "name": "涛涛 | 影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
-      "ext": {
-        "简介": "【涛涛影视】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
-        "线路标题": "[替换:索索线路>>涛涛影视APP]",
-        "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
-      }
-    },
-    {
+      {
       "key": "keke",
       "name": "影视 | 可可",
       "type": 3,
