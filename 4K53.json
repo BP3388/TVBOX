@@ -4,7 +4,7 @@
   "logo": "http://8.137.115.106:3389/4.png",
   "lives": [
     {
-      "name": "直播",
+      "name": "直播2025",
       "type": 0,
       "url": "http://8.137.115.106:3389/zhibo.txt",
       "playerType": 1,
@@ -12,6 +12,16 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+ {
+            "name": "live53",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/BP3388/TVBOX/refs/heads/main/live53.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+
+
+    
     {
       "name": "抖音、斗鱼、B站、YY、Afreeca、Youtube",
       "type": 0,
