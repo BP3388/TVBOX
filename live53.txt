@@ -1,0 +1,109 @@
+新聞,#genre#
+FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新聞,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+中天新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv152
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+年代新聞,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+民視新聞,http://125.227.210.55:8157/VideoInput/play.ts
+
+港澳,#genre#
+鳳凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/.m3u8
+澳視澳門,http://61.244.22.4/ch1/ch1.live/index.m3u8
+澳視葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+澳門macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳視澳門,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳視葡文,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+澳門Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳門蓮花衛視,http://nettvpro.live/hls/lotustv.php
+ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+鳳凰資訊,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/.m3u8
+
+中國,#genre#
+CCTV1,p3p://173.208.176.178:31809/62c200310006b7b2a8c4dade0fd02231
+CCTV2,p3p://173.208.176.178:31809/5fe15a4400093f55773aac0c576366b8
+CCTV3,p3p://173.208.176.178:31809/62be83ea0001dbed9b27d7bb43427d30
+CCTV4,p3p://173.208.176.178:31809/61244d9c0006885d64b1b7591f6c12a0
+CCTV5,p3p://173.208.176.178:31809/62c2e10a000954acac332b30611a0e9d
+CCTV5+,p3p://173.208.176.178:31809/6323522b0000ad5c24e892c57ad041c7
+CCTV6,p3p://173.208.176.178:31809/62c1fdfa0006353aa8bc33e5054a54db
+CCTV7,p3p://173.208.176.178:31809/5fe3e41800087c1581251001631763fa
+CCTV8,p3p://173.208.176.178:31809/5ff866900007a9fbd141d26a26c3200d
+CCTV9,p3p://173.208.176.178:31809/600b6ba2000d52801b8cbfda6cd319a2
+CCTV10,p3p://173.208.176.178:31809/600b6e71000738431b97b6e5675e67a4
+CCTV11,p3p://173.208.176.178:31809/600b70950000f68f1ba011e06e003057
+CCTV12,p3p://173.208.176.178:31809/5fe3e42d00068cbf812561891e0e6b52
+CCTV13,p3p://173.208.176.178:31809/632351570006042224e55806316a7512
+CCTV14,p3p://173.208.176.178:31809/600b718b0006dd9f1ba3d45468b1762e
+CCTV15,p3p://173.208.176.178:31809/63235101000d828724e40a062bb62592
+
+戲劇知識綜合,#genre#
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+DISCOVE ASIA,http://125.227.210.55:8154/VideoInput/play.ts
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+華視,http://125.227.210.55:8163/VideoInput/play.ts
+公視,http://125.227.210.55:8164/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+RRI NET,http://125.227.210.55:8172/VideoInput/play.ts
+NTV,http://125.227.210.55:8173/VideoInput/play.ts
+中視,http://125.227.210.55:8174/VideoInput/play.ts
+http://125.227.210.55:8175/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+韓國台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+💖TV5台,http://125.227.210.55:15533/VideoInput/play.ts
+💖YTN台,http://125.227.210.55:17478/VideoInput/play.ts
+💖NHK JAPAN台,http://125.227.210.55:35802/VideoInput/play.ts
+💖HD台🍒,http://125.227.210.55:39004/VideoInput/play.ts
+💖DW台,http://125.227.210.55:42534/VideoInput/play.ts
+💖KOREA台,http://125.227.210.55:48553/VideoInput/play.ts
+💖Mainu台,http://125.227.210.55:51359/VideoInput/play.ts
+
+
