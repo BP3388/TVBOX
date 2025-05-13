@@ -68,6 +68,23 @@
       "api": "http://150.138.72.216:20142/lib/py/影探.py",
       "ext": "http://csym.lyyytv.cn"
     },
+{
+      "key": "csp_appys_影盒",
+      "name": "影探4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://csysj.lyyytv.cn/api.php/app/"
+    },
+
+
+
+
+
+
+    
     {
       "key": "城南花开",
       "name": "城南花开官源",
