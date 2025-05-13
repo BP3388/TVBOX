@@ -18,9 +18,7 @@
             "url": "https://raw.githubusercontent.com/BP3388/TVBOX/refs/heads/main/live53.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-
-
+        },
     
     {
       "name": "抖音、斗鱼、B站、YY、Afreeca、Youtube",
