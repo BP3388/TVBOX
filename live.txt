@@ -4,6 +4,11 @@
 #EXTINF:-1 group-title="代理",NHK BSP
 http://125.227.210.55:60116/VideoInput/play.ts
 
+#EXTINF:-1 group-title="代理",CCTV5
+http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_39?token=eiVZME6INXlBgfujsCRnFg%3D%3D&key=DSan7GfofFY3JvKThi0sGK4LCx57fqnTKaIFAn1ikq0xH%2FGf2qjp5p%2B6d1qnamg0SMt9quJcMhOXoqW0cNEFRCm4FslrvdOpie62mUznzd2kXijnjiW59DtBvUYxyU5t3dlDpywGc70DRjb3WKP3gA%3D%3D&clientIp=140.250.235.236
+
+
+
 #EXTINF:-1 group-title="代理",CNN new
 http://125.227.210.55:8166/VideoInput/play.ts
 
