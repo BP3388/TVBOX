@@ -401,19 +401,19 @@ http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://3501776.xyz:35455/gaoma/cctv4k.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://123.170.144.157:58888/udp/239.21.1.120:5002
+http://123.170.144.157:58888/rtp/239.21.1.120:5002
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://123.170.144.157:58888/udp/239.21.1.151:5002
+http://123.170.144.157:58888/rtp/239.21.1.151:5002
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://123.170.144.157:58888/udp/239.21.2.45:5002
+http://123.170.144.157:58888/rtp/239.21.2.45:5002
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://123.170.144.157:58888/udp/239.21.1.154:5002
+http://123.170.144.157:58888/rtp/239.21.1.154:5002
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
-http://123.170.144.157:58888/udp/239.21.2.46:5002
+http://123.170.144.157:58888/rtp/239.21.2.46:5002
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
-http://123.170.144.157:58888/udp/239.21.1.142:5002
+http://123.170.144.157:58888/rtp/239.21.1.142:5002
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
-http://123.170.144.157:58888/udp/239.21.2.47:5002
+http://123.170.144.157:58888/rtp/239.21.2.47:5002
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
 http://123.170.144.157:58888/udp/239.21.1.152:5002
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
