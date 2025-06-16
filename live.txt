@@ -353,49 +353,107 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 group-title="🎱｜4K",测试视频 7.1.4 12声道
 https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="全网通",CCTV1
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",纯享4K
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",纯享4K
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000011651&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://epg.112114.xyz/logo/直播中国.png" group-title="其他",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="全网通",CCTV2
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字高清",求索纪录
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="数字高清",求索科学
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png" group-title="数字高清",求索动物
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
-#EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="数字高清",求索生活
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000008
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="全网通",CCTV3
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="全网通",CCTV4
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="全网通",CCTV5
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="全网通",CCTV5+
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5p
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="全网通",CCTV6
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="全网通",CCTV7
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="全网通",CCTV8
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="全网通",CCTV9
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="全网通",CCTV10
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="全网通",CCTV11
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="全网通",CCTV12
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="全网通",CCTV13
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="全网通",CCTV14
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="全网通",CCTV15
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="全网通",CCTV16
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="全网通",CCTV17
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 
-#EXTINF:-1 tvg-name="鳳凰中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文台.png" group-title="港台国际",鳳凰中文台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="鳳凰資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊台.png" group-title="港台国际",鳳凰資訊台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://live.fanmingming.com/tv/鳳凰香港台.png" group-title="港台国际",鳳凰香港台
-https://live.hkdvb.com/hls/live/85.m3u8?token=275839252947068
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台国际",翡翠台
-https://live.hkdvb.com/hls/live/81.m3u8?token=275839252947068
-#EXTINF:-1 tvg-name="翡翠台4k" tvg-logo="https://live.fanmingming.com/tv/翡翠台4k.png" group-title="港台国际",翡翠台4k
-https://live.hkdvb.com/hls/live/800.m3u8?token=275839252947068
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港台国际",明珠台
-https://live.hkdvb.com/hls/live/84.m3u8?token=275839252947068
-#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港台国际",TVB PLUS
-https://live.hkdvb.com/hls/live/82.m3u8?token=275839252947068
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="全网通",北京卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
+
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="全网通",深圳卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="全网通",湖南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="全网通",东方卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="全网通",浙江卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="全网通",江苏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=,江苏卫视
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="全网通",山东卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="全网通",黑龙江卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=,黑龙江卫视
 
 
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="全网通",东南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
 
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
-http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
-http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="全网通",重庆卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="全网通",海南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
+
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="全网通",陕西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
+
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="全网通",广西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
+
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="全网通",厦门卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=厦门卫视
+
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="全网通",延边卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
+
 
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV 4K
 http://3501776.xyz:35455/gaoma/cctv4k.m3u8
