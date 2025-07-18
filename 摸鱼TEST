@@ -1,3 +1,5 @@
+//bb39
+
 {
   "spider": "http://ok.lfytv.cn/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
  
@@ -103,7 +105,7 @@
 {
       "name": "🐅官源4K1",
       "type": 1,
-      "url": "http://kcjx.zwzs.fun/json.php?url=",
+      "url": "https://tvbox.dysvips.top/api/index?parsesId=8&appid=10000&videoUrl=",
       "ext": {
         "flag": [
           "qq",
