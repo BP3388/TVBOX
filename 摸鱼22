@@ -27,12 +27,56 @@
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGSP.js"
+    },
+    {
+      "key": "🈵 醉挽清风 | JX",
+      "name": "♨️腾腾┃4K┃备",
+      "type": 3,
+      "api": "csp_Breeze",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+       "jxApi": "E8d2yqe1g4SYrLP3tsNWfwbFT7fyAotaK149/AqgMWYyAK0Qj7osrWHNQyHOh8ohG47OcA6h9FxUhk7GJWej7Fcb1XmqMH7CtRRUamCb7ghQaRpORTn4uXDLxjX+RmYmR2QOHNlZeY+MdrrXSxdT6JZxwIGL9loDM76nV7knNAPuqc8Xe0Htb+R7acQp3AbS"
+       
+      }
+    },
+    {
+      "key": "🈵 小满万全 | JX",
+      "name": "♨️果果┃4K┃备",
+      "type": 3,
+      "api": "csp_LessIsMore",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "jxApi": "E8d2yqe1g4SYrLP3tsNWfwbFT7fyAotaK149/AqgMWYyAK0Qj7osrWHNQyHOh8ohG47OcA6h9FxUhk7GJWej7Fcb1XmqMH7CtRRUamCb7ghQaRpORTn4uXDLxjX+RmYmR2QOHNlZeY+MdrrXSxdT6JZxwIGL9loDM76nV7knNAPuqc8Xe0Htb+R7acQp3AbS",
+        "prefix": "aKKG6Ixij3hB8wa0VvK8Yv8/cUiIhuf2KvoTntbT0UL8PKT/aI27Tv2CqIZh9XBK",
+        "danmu": "Xuuq7MRbO6OAjCXjQNK/X4HdV2ZIABiW2syArSvt9SB6l5x6sI9N68J+B8VrMIXk7nXdpwCuGw4VuaAbuGjdWvDra9E+BYka56x5cdklyJM="
+      }
+    },
+  {
+      "key": "🈵 帧跃星河 | JX",
+      "name": "♨️哔哔┃4K┃备",
+      "type": 3,
+      "api": "csp_BiliPlus",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.lintech.work/超大杯/sites/码上/ys.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
     }
- 
-
   ],
   "parses": [
-  
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
     {
       "name": "♨️全能",
       "type": "1",
@@ -182,7 +226,7 @@
     }
   ],
   "lives": [
-    
+     {"name": "🐅IPTV研究所直播源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
 
  
 {
@@ -191,8 +235,64 @@
       "url": "https://ghfast.top/https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/%E8%80%81%E4%B8%89",
       "ua": "okhttp/3.15",
       "playerType": 2
+    },
+{
+      "name": "🐅平台直播",
+      "type": 0,
+      "url": "http://150.158.112.123/live.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    },
+ 
+ 
+ {
+      "name": "🐅AKTV",
+      "type": 0,
+      "url": "https://aktv.space/live.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.hackserver.net/epg.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+  
+   {
+      "name": "🐅猫TV",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.hackserver.net/epg.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "core": {
+        "auth": "local://tvbus",
+        "name": "",
+        "pass": "",
+        "resp": "",
+        "pkg": "",
+        "sign": "",
+        "so": "https://aries.yuanwangokk.nyc.mn/BhRw"
+      }
+    },
+  
+{
+      "name": "🐅宝盒直播",
+      "type": 0,
+      "url": "https://3043.kstore.space/bhvip/bhzb.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.hackserver.net/epg.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+  
+{
+      "name": "🐅影视家",
+      "type": 0,
+      "url": "http://max.token.iptv.xin:2052/api/channels/%E7%8B%AC%E5%AE%B6%E4%BB%A3%E7%90%86%E6%BA%90/details?token=174780775220",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.hackserver.net/epg.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-
   ],
   "flags": [
     "youku",
