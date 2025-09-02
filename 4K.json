@@ -16,7 +16,7 @@
       "name": "♨️4K®在线",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
-      "ext": "./js/4kav.js"
+      "ext": "./js/4kmp.js"
     },
     {
       "key": "bilimd",
