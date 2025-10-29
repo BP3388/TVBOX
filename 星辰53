@@ -122,7 +122,8 @@
       "key": "tt",
       "name": "4K｜影视",
       "type": 3,
-      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+       "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+     // "api": "http://150.158.112.123/js/dr/drpy2.min.js",
       "ext": "http://150.158.112.123/jar/tx.js"
     },
     {
