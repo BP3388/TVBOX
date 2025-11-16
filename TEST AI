@@ -1,21 +1,28 @@
 {
   "sites": [
-    {
-      "key": "youtube",
+  
+  {"key": "csp_XBPQ_永乐视频",
+   "name": "🍰永乐视频",
+   "type": 3,
+   "searchable":1,
+   "quickSearch":0,
+   "filterable":1,
+   "api": "csp_XBPQ",
+   "ext":  "./json/永乐视频.json"},
+
+  { "key": "youtube",
       "name": "YouTube 官方源",
       "type": 3,
       "api": "https://www.youtube.com",
       "searchable": 0,
-      "filterable": 0
-    },
-    {
-      "key": "bilibili",
+      "filterable": 0    },
+
+    { "key": "bilibili",
       "name": "Bilibili 公開接口",
       "type": 3,
       "api": "https://api.bilibili.com",
       "searchable": 0,
-      "filterable": 0
-    }
+      "filterable": 0  }
   ],
 
   "lives": [
