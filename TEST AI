@@ -10,6 +10,18 @@
    "api": "csp_XBPQ",
    "ext":  "./json/永乐视频.json"},
 
+{
+      "key": "4K影院",
+      "name": "♨️4K®在线",
+      "type": 3,
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/4kav.js"
+    },
+
+
+
+
+
   { "key": "youtube",
       "name": "YouTube 官方源",
       "type": 3,
