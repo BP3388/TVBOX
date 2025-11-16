@@ -1,0 +1,79 @@
+TVBox config.json
+
+{
+  "sites": [
+    {
+      "key": "youtube",
+      "name": "YouTube 官方源",
+      "type": 3,
+      "api": "https://www.youtube.com",
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "bilibili",
+      "name": "Bilibili 公開接口",
+      "type": 3,
+      "api": "https://api.bilibili.com",
+      "searchable": 0,
+      "filterable": 0
+    }
+  ],
+
+  "lives": [
+    {
+      "group": "新闻台",
+      "channels": [
+        {
+          "name": "CNA 新传媒（新加坡）",
+          "urls": ["https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43a8b3c78b2e94f0eaf3/index.m3u8"]
+        },
+        {
+          "name": "NHK World Japan",
+          "urls": ["https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/playlist.m3u8"]
+        },
+        {
+          "name": "DW 德国之声",
+          "urls": ["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"]
+        }
+      ]
+    },
+    {
+      "group": "科技 / 知识",
+      "channels": [
+        {
+          "name": "NASA Live",
+          "urls": ["https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master_2000.m3u8"]
+        },
+        {
+          "name": "TED Talks",
+          "urls": ["https://tedconferences-vh.akamaihd.net/i/tedtalks_,240p,480p,720p,.mp4.csmil/master.m3u8"]
+        }
+      ]
+    },
+    {
+      "group": "音乐台",
+      "channels": [
+        {
+          "name": "MTV Global Public",
+          "urls": ["https://pluto-live.plutotv.net/egress/chandler/pluto01/live/MTVMaster/index.m3u8"]
+        }
+      ]
+    }
+  ],
+
+  "parses": [
+    {
+      "name": "WebView 嗅探",
+      "type": 3,
+      "url": "web"
+    }
+  ],
+
+  "rules": [
+    {
+      "host": "*",
+      "rule": ["player", "video"]
+    }
+  ]
+}
