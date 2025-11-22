@@ -1,6 +1,6 @@
-//http://47.96.82.41:5188/svip/svip.json
 
-{
+{   //http://47.96.82.41:5188/svip/svip.json
+
     "spider": "./svip.jar",
     "wallpaper": "https://sgmao.serv00.net/image/",
     "logo": "https://4708.kstore.space/logo.gif",
