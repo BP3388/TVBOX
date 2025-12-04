@@ -7,11 +7,20 @@
 //"spider": "./jar/xyqxbpq.jar",
 "wallpaper": "https://yydsys.top/bg.php","warningText":"顺财顺风顺水顺财神",
 
-  "sites": [
+ "sites": [
 {"key": "js_豆瓣","name": "💥顺子推荐💥","type": 3,"api":"./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./drpy_js/drpy.js"},
-//{"key": "03影院","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","jar":"./jar/spider.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/03%E5%BD%B1%E9%99%A2.json"},
+{"key":"瓜子","name":"💥瓜子💥","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
+{"key":"甜圈短剧","name":"💟甜圈短剧","type":3,"jar": "https://pan.aa53.cn/view.php/4f3bd2d96c8acbac3085c397665536ef.png","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+
+   {"key":"锦鲤短剧","name":"💟锦鲤短剧","type":3,"jar": "https://pan.aa53.cn/view.php/4f3bd2d96c8acbac3085c397665536ef.png","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+{"key": "Wexduanju001","name": "💟短剧神品","type": 3,"jar": "https://pan.aa53.cn/view.php/905b506670b52fb2a680743fb13086fc.png","api": "csp_Wexduanju001Guard","searchable": 1,"changeable": 1},
+    {"key": "drpy_js_爱奇艺 (官)","name": "🍥爱奇艺 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/爱奇艺 (官).js"},
+    {"key": "drpy_js_腾讯视频 (官)","name": "🍥腾讯视频 (官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾讯视频 (官).js"},  
+    {"key": "drpy_js_芒果视频(官) ","name": "🍥芒果视频(官)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/芒果视频(官) .js"},
+    {"key": "drpy_js_优酷 (官) ","name": "🍥优酷 (官) ","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷 (官) .js"},
+    {"key":"csp_sp_龙门短剧","name":"🤖爬虫┃龙门短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+    {"key":"csp_sp_龙门动漫","name":"🤖爬虫┃龙门动漫","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","里番动漫","日韩动漫","欧美动漫"]},
 {"key":"csp_XBPQ_瓜子影视","name":"💥瓜子影视💥","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://www.gzvod.cc/","分类url":"https://www.gzvod.cc/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
-{"key":"瓜子","name":"🤖瓜子","type":3,"jar":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/xiaosa/spider.jar","api":"csp_Gz360", "searchable": 1, "quickSearch": 0, "filterable": 1 },
 
 {"key": "csp_XBPQ_电视剧网","name": "💥电视剧网💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/电视剧网.json"},
 //{ "key": "瓜子app", "name": "💥瓜子App💥", "type": 3,"searchable":1,"quickSearch":0,"filterable":1, "api": "./drpy_libs/drpy2.min.js", "ext": "./js/guazi.js" },
@@ -42,9 +51,7 @@
         "jar": "./jar/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
         "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     }, 
-{"key":"甜圈短剧","name":"🤖甜圈短剧","type":3,"jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png","api":"csp_TianQuanGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-
-{"key":"锦鲤短剧","name":"🤖锦鲤短剧","type":3,"jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png","api":"csp_JinliGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
+{"key": "csp_XYQHiker_可可影视","name":"☕️可可影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/可可影视.json"},
 {"key": "csp_XYQHiker_电影盒子","name":"👾电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":0,"filterable":1,"ext":"./Hk/电影盒子.json","jar":"./jar/Hk.jar"},
 {"key": "csp_555电影","name": "👾555电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/555影视.json"},
 {"key":"机器人","name":"👾机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":0,"changeable":1,"ext":"https://v.ikanbot.com","jar":"./jar/spider.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
@@ -65,10 +72,12 @@
 {"key": "csp_樱花动漫","name": "🌇樱花动漫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/樱花动漫.json"},
 {"key":"csp_XBPQ_厂长影院","name":"🎬厂长影院","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/厂长影院.json"},
 {"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/%E8%80%81%E7%8E%8B.json"},
+{"key":"熊猫短剧","name":"💥熊猫短剧💥","type":3,"api":"csp_XBPQ","changeable": 1, "searchable": 1, "quickSearch": 0, "filterable": 1, "ext":"./json/熊猫短剧.json"},
 { "key": "午夜电影院", "name": "♨️午夜电影", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/午夜电影.json" },
 {"key":"小红影视","name":"♨️小红影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"/search/{wd}-------------/","主页url":"https://xiaohys.com/","分类数组": "<li&&</li>","分类标题": "li>&&</a>"}},
 {"key":"XBPQ_红果短剧","name":"♨️红果短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/红果短剧.json"},
 {"key":"XBPQ_顺短剧","name":"♨️顺短剧","type":3,"searchable":1,"quickSearch":0,"filterable":1,"api": "csp_XBPQ","ext":"./json/顺短剧.json"},
+    {"key": "drpy_js_NT动漫","name": "🍥NT动漫[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/NT动漫.js"},
     {"key": "drpy_js_奇珍异兽","name": "🍥奇珍异兽[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/奇珍异兽.js"},
     {"key": "drpy_js_优酷","name": "🍥优酷[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/优酷.js"},
     {"key": "drpy_js_腾云驾雾","name": "🍥腾云驾雾[js]","type": 3,"api": "./drpy_libs/drpy2.min.js","ext": "./js/腾云驾雾.js"},
@@ -127,6 +136,7 @@
 {"key":"drpy_js_有声小说","name":"📻有声小说[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/有声小说.js","quickSearch":0,"playerType":"2","style":{"type":"rect","ratio":1}},
 {"key":"drpy_js_蜻蜓FM","name":"📻蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","quickSearch":0,"playerType":"2"},
 { "key": "第一👿动漫","name": "🎬第一👿动漫","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "csp_XBPQ","ext":"./json/第一动漫.json"},
+{ "key": "小草影院","name": "🎬小草影院","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "csp_XBPQ","ext":"./json/小草影院.json"},
 {
     "key": "小城",
       "name": "🎀小城影视",
@@ -409,7 +419,7 @@
             ]
         }, 
 {"key":"MV点播","name":"🎤顺万首MK","searchable": 1,"changeable": 1,"quickSearch": 0,"type": 3,"api": "./mv/live2cms.js","ext":"./mv/万首MV.json"},
-{"key": "hipy_js_KTV歌厅[听]", "name": "🎤KTV歌厅","type": 3,"api": "./lib/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"ext": "./lib/js/KTV%E6%AD%8C%E5%8E%85%5B%E5%90%AC%5D.js"},
+//{"key": "hipy_js_KTV歌厅[听]", "name": "🎤KTV歌厅","type": 3,"api": "./lib/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"ext": "./lib/js/KTV%E6%AD%8C%E5%8E%85%5B%E5%90%AC%5D.js"},
 {"key": "哔哩哔哩","name": "🅱️哔哩┃哔哩","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩哔哩.json"},
 {"key": "哔哩合集","name": "🅱️哔哩┃合集","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/哔哩合集.json"},	  
 {"key": "中医药","name": "🅱️中医┃药区","type": 3,"api": "csp_Bili","jar": "./jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./Bilibili/中医药.json"},
@@ -432,7 +442,7 @@
      "lives": [
       {
             "name": "影视",
-            "url": "./lives/直.txt",
+            "url": "./lives/直播.txt",
             "type": 0,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
