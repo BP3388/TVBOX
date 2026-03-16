@@ -1,9 +1,88 @@
 {
     "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
-            "name": "👖Clunytop box json"
-        },
+
+       {    "name": "自用",
+            "url": "https://gitee.com/hstsws/ltcw/raw/main/717.json"        },
+
+      {     "name": "天微影视A",  
+            "url": "https://7337.kstore.space/kjtv/自用测试.json"    },  
+
+      {    "name": "天微影视B",
+           "url": "https://7337.kstore.vip/tw.json"    },  
+
+      {    "name": "顺财",
+           "url": "https://raw.githubusercontent.com/lishuncai8881/TVBox/refs/heads/main/%E9%A1%BA%E8%B4%A2.json"    }
+
+       {   "name": "2025永乐",
+           "url": "http://47.96.82.41:5188/svip/svip.json"    },  
+
+       {   "name": "cluntop-box 4kav",
+           "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json"    },  
+
+       {   "name": "cluntop-jsm",
+           "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jsm.json "    }, 
+
+
+      {   "name": "Alan1977 ",
+          "url": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json"    }
+
+     {   "name": "Baotv bh1",
+          "url": "https://raw.githubusercontent.com/PowerTechott/baotv/refs/heads/main/bh1"    }
+
+      {   "name": "Baotv bh5",
+          "url": "https://raw.githubusercontent.com/PowerTechott/baotv/refs/heads/main/bh5"    }
+
+      {   "name": "Baotv bh77",
+          "url": "https://raw.githubusercontent.com/PowerTechott/baotv/refs/heads/main/bh77"    }
+
+       {   "name": "Baotv bh8",
+          "url": "https://raw.githubusercontent.com/PowerTechott/baotv/refs/heads/main/bh8"    }
+
+
+       
+        {    "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "挺好分享"        },
+
+        {    "url": "http://47.96.82.41:3/",
+            "name {: "小哥哥"        },
+
+        {    "name": "软件小哥哥",
+            "url": "http://47.96.82.41:5188/svip/svip.json"  },
+
+       {     "name": "小盒子4k",
+            "url": "http://xhztv.top/4k.json"        },
+
+       {     "name": "电视自用接口",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"   },
+
+        {   "name": "成人",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"   },
+
+			
+		{  "name": "老4K秒播",
+            "url": "http://宝盒接口.top"    },
+
+        {   "name": "巧儿",
+            "url": "http://pandown.pro/tvbox/tvbox.json"        },
+
+        {   "name": "推荐",
+            "url": "http://ficfac.com/tv/box.json"   },
+
+        {   "name": "4K接口",
+            "url": "http://v-dragon.com.hk/4k/"     },
+
+         {  "name": "巧记",
+            "url": "http://cdn.qiaoji8.com/tvbox.json"  },
+
+          {   ame": "神秘哥哥们",
+            "url": "http://fty.xxooo.cf/tv"        },
+
+        {   "name": "摸鱼接口",
+            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/"    },
+
+        {   "name": "豆豆资源",
+            "url": "https://cyao2q.github.io/files/n.json"        },
+       
 
         {
             "url": "http://tvbox.王二小放牛娃.top",
@@ -65,10 +144,7 @@
             "url": "http://tv.nxog.top/m",
             "name": "👖TV"
         },
-        {
-            "url": "https://ztha.top/TVBox/thdjk.json",
-            "name": "👖挺好分享"
-        },
+      
         {
             "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
             "name": "👖XS"
@@ -269,10 +345,7 @@
             "url": "https://www.252035.xyz/p/jsm.json",
             "name": "👖PG本地包"
         },
-        {
-            "url": "http://47.96.82.41:3/",
-            "name": "👖小哥哥"
-        },
+       
         {
             "url": "https://8815.kstore.vip/tvbox/Promise.json",
             "name": "👖林中小屋"
